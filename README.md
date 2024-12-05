@@ -1,3 +1,3 @@
 # simple-tasks
 
-<3
+Рere are my homework assignments for js
